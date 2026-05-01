@@ -1,6 +1,6 @@
 # Portafolio Digital de Aprendizaje – Teoría de la Programación
 
----
+
 
 ![LOGO](./img/Universidad-Nacional-de-Loja-UNL.png)
 
