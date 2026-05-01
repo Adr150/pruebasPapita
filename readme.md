@@ -7,7 +7,7 @@
 
 ---
 
-![LOGO](URL_DE_LA_IMAGEN_AQUÍ)
+![LOGO](./img/Universidad-Nacional-de-Loja-UNL.png)
 
 ---
 
