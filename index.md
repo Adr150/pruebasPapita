@@ -1,5 +1,5 @@
 # Portafolio Digital de Aprendizaje – Teoría de la Programación
-<center>
+
 
 # NOMBRE DE LA INSTITUCIÓN
 ## FACULTAD DE [Nombre de la Facultad]
@@ -31,4 +31,3 @@
 **CIUDAD - PAÍS**  
 **2024**
 
-</center>
