@@ -1,10 +1,5 @@
 # Portafolio Digital de Aprendizaje – Teoría de la Programación
 
-
-# NOMBRE DE LA INSTITUCIÓN
-## FACULTAD DE [Nombre de la Facultad]
-### CARRERA DE [Nombre de la Carrera]
-
 ---
 
 ![LOGO](./img/Universidad-Nacional-de-Loja-UNL.png)
